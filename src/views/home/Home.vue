@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Welcome to HCTTOP</h1>
+    <h1 class="home-title">Welcome to HCTTOP</h1>
     <a href="about.html">About</a>
   </div>
 </template>
@@ -10,7 +10,7 @@
 export default {};
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 // @import "normalize-scss/sass/normalize/_import-now";
 // @include normalize();
 </style>
